@@ -1,6 +1,8 @@
-Mobiquity code assignment (Packaging Challenge)
+Mobiquity code assignment (Packaging Challenge)  
+
 Provided By: Ahmed Alaa
-Submitted at: 28/10/2019
+  
+Submitted at: 28/10/2019  
 
 
 For this problem i used Brute Force Algorithm and eliminated invalid options.
